@@ -1,3 +1,6 @@
+//นายธีระภัทร ชมเชย 65543206019-3 SEC 3
+//
+
 #include <stdio.h>
 #include <string.h>
 
